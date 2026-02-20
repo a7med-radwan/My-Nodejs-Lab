@@ -1,25 +1,25 @@
-# My Node.js Lab - مختبري لتعلم Node.js
+# My Node.js Lab
 
-هذا المستودع يحتوي على رحلتي في تعلم Node.js، من الأساسيات وحتى بناء تطبيقات API متقدمة.
+This repository documents my journey in learning Node.js, covering everything from the fundamentals to building advanced APIs.
 
-## المحتويات (Contents):
-1. **أساسيات JavaScript (1-JS Basics)**: تغطية المفاهيم الأساسية للغة.
-2. **البرمجة غير المتزامنة (2-AsyncJS)**: التعامل مع الـ Promises و Async/Await.
-3. **أساسيات Node.js (3-nodejs Basics)**: فهم بيئة تشغيل Node.
-4. **الوحدات المحلية (4-local modules)**: كيفية إنشاء واستخدام الوحدات الخاصة بك.
-5. **الوحدات الأساسية (5-Core Modules)**: التعامل مع وحدات Node.js المدمجة مثل FS و Path.
-6. **مدير الحزم NPM (6-NPM)**: إدارة المكتبات الخارجية.
-7. **تطبيقات الويب (7-Web)**: أساسيات التعامل مع الويب.
-8. **واجهة برمجة التطبيقات API (8-API)**: بناء وتطوير الـ APIs.
+## Table of Contents
+1. **JavaScript Basics (1-JS Basics)**: Core concepts and syntax.
+2. **Async JavaScript (2-AsyncJS)**: Mastering Promises and Async/Await.
+3. **Node.js Fundamentals (3-nodejs Basics)**: Understanding the runtime environment.
+4. **Local Modules (4-local modules)**: Creating and organizing custom modules.
+5. **Core Modules (5-Core Modules)**: Working with built-in modules like FS, Path, and HTTP.
+6. **NPM & Package Management (6-NPM)**: Managing external dependencies.
+7. **Web Development (7-Web)**: Basics of building for the web.
+8. **RESTful APIs (8-API)**: Designing and developing scalable APIs.
 
 ---
 
-## كيفية التشغيل (How to Run):
-كل مجلد يحتوي على أمثلة عملية. لتشغيل أي ملف، يمكنك الانتقال إلى المجلد واستخدام الأمر:
+## How to Run
+Each directory contains practical examples. To run a specific file, navigate to its directory and use the following command:
 ```bash
 node <filename>.js
 ```
 
 ---
 
-*بواسطة: أحمد رضوان*
+*Authored by: Ahmed Radwan*
